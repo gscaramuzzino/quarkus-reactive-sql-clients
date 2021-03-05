@@ -1,5 +1,7 @@
 # Quarkus Reactive SQL Clients
 
+[![Alt text](https://user-images.githubusercontent.com/8536722/110162186-aa6eab00-7dee-11eb-8289-bd3cf6c13a11.png)](https://www.youtube.com/watch?v=igjMjFOHyK8 "Click to play on Youtube.com")
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
